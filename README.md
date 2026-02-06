@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Steve Hapi
 
-<!--
-**vinysteve/vinysteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student | 💼 Risk & Compliance Professional | 🌍 Bilingual (English & French)
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a detail-oriented and analytical professional with a background in finance, risk analysis, auditing, and customer service. I am currently completing a College Diploma in Data Science at Collège La Cité (Expected 2026) and building technical skills in data analysis, programming, and business intelligence.
+
+I am passionate about using data and technology to solve real-world problems, improve decision-making, and strengthen risk management processes.
+
+🛠️ Technical Skills
+
+Programming: Python (learning & developing projects)
+
+Data Analysis: Excel, Data Cleaning, Data Visualization
+
+Tools & Platforms: GitHub, Microsoft Office Suite
+
+Concepts: Risk Analysis, Data Integrity, Reporting, Compliance
+
+🌱 Currently Learning
+
+Data Visualization (Matplotlib, Pandas)
+
+Machine Learning Fundamentals
+
+SQL & Database Management
+
+Advanced Python for Data Science
+
+
+
