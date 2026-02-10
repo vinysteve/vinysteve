@@ -4,7 +4,7 @@
 
 🚀 About Me
 
-I am a detail-oriented and analytical professional with a background in finance, risk analysis, auditing, and customer service. I am currently completing a College Diploma in Data Science at Collège La Cité (Expected 2026) and building technical skills in data analysis, programming, and business intelligence.
+I am a detail-oriented and analytical professional with a background in finance, risk analysis, auditing, and customer service. I am currently completing a College Diploma in Data Science at Collège La Cité (Expected june 2026) and building technical skills in data analysis, programming, and business intelligence.
 
 I am passionate about using data and technology to solve real-world problems, improve decision-making, and strengthen risk management processes.
 
@@ -12,7 +12,7 @@ I am passionate about using data and technology to solve real-world problems, im
 
 Programming: Python (learning & developing projects)
 
-Data Analysis: Excel, Data Cleaning, Data Visualization
+Data Analysis: Excel, Data Cleaning, SQL, Data Visualization
 
 Tools & Platforms: GitHub, Microsoft Office Suite
 
